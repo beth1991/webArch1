@@ -1,5 +1,6 @@
-body{background-color:pink;}
-p{color:green;font-family:Arial;}
-h1,h2{color:purple;font-family:"ARDESTINE";}
-h3{color:blue;font-family:"ARDESTINE";}
+body{background-color:darkturquoise;}
+p{color:black;font-family:Arial;}
+h1,h2{color:purple;font-family:"monospace";}
+h3{color:purple;font-family:"monospace": text-align:center;}
+
 
